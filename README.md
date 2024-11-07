@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👨🏻‍💻 Matheus Schmitz
 
-<!--
-**Glanzmann100/Glanzmann100** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo de Matheus Schmitz Glanzmann, tenho 18 anos, natural de Juiz de Fora - MG e atualmente sou estudante de Engenharia de Software na Instituição UniAcademia.
+### 📱 Social: 📱
 
-Here are some ideas to get you started:
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/glanzmann.100/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/matheus-schmitz-59324929a/)
+[![Facebook](https://img.shields.io/badge/Facebook-0866FF.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/matheus.schmitz.9655)
+![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+### GitHub Stats:
+<img
+        align-itens
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=Glanzmann100&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+    />
+<img 
+        alt="GitHub Stats"
+        height="200"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glanzmann100&theme=tokyonight&title=Tecnologiasincludelangs_count=8"
+/>
+
+#
+### Tecnologias que uso diariamente:
+
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+#
+
+<img align="right" height="250" alt="coding.time" src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn">
+
+### Apaixonado por tecnologia da informação com o desejo de estudar e trabalhar pelo mundo conhecendo diversos mercados e países diferentes 🌎
