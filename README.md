@@ -21,7 +21,7 @@ Me chamo de Matheus Schmitz Glanzmann, tenho 18 anos, natural de Juiz de Fora - 
         alt="GitHub Stats"
         height="200"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glanzmann100&theme=tokyonight&title=Tecnologiasincludelangs_count=8"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Glanzmann100&theme=tokyonight&title=Tecnologiaincludelangs_count=8"
 />
 
 #
