@@ -39,8 +39,5 @@ Me chamo Matheus Schmitz Glanzmann, tenho 18 anos, natural de Juiz de Fora - MG 
 </div>
 
 #
-<img src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/code-web-tasarm-yazlm-iIqmM5tTjmpOB9mpbn">via GIPHY</a></p>
-
-###
 
 ### Apaixonado por tecnologia da informação com o desejo de estudar e trabalhar pelo mundo conhecendo diversos mercados e países diferentes 🌎
