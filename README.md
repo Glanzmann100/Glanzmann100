@@ -40,6 +40,6 @@ Me chamo Matheus Schmitz Glanzmann, tenho 18 anos, natural de Juiz de Fora - MG 
 
 #
 
-<video align="right" height="250" src="https://giphy.com/embed/iIqmM5tTjmpOB9mpbn"></video>
+<img src="https://raw.githubusercontent.com/Glanzmann100/Glanzmann100/output/snake.svg" alt="Snake animation" />
 
 ### Apaixonado por tecnologia da informação com o desejo de estudar e trabalhar pelo mundo conhecendo diversos mercados e países diferentes 🌎
