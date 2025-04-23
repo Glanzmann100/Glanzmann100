@@ -1,6 +1,6 @@
 # 👨🏻‍💻 Matheus Schmitz
 
-Me chamo Matheus Schmitz Glanzmann, tenho 18 anos, natural de Juiz de Fora - MG e atualmente sou estudante de Engenharia de Software na Instituição UniAcademia.
+Me chamo Matheus Schmitz Glanzmann, tenho 19 anos, natural de Juiz de Fora - MG e atualmente sou estudante de Engenharia de Software na Instituição UniAcademia.
 ### 📱 Social: 📱
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/glanzmann.100/)
